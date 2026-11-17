@@ -1,6 +1,6 @@
 cask "letter-switch" do
-  version "0.3"
-  sha256 "6779550ebaffc98abf8af347cadd3fb71dea9eee2f942aafcceed02adbad8e09"
+  version "0.3.1"
+  sha256 "8665f16758e4fb1e637207ad5c437f0e8dd8cc4960311178a90a7523d2821935"
 
   url "https://github.com/santiagohervella/letter-switch/releases/download/v#{version}/LetterSwitch.zip"
   name "LetterSwitch"
